@@ -1,4 +1,4 @@
-package com.example.gamescheduler.service.impl;
+package com.example.gameschedule.service.impl;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,10 +11,10 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.example.gamescheduler.dto.GameScheduleDTO;
-import com.example.gamescheduler.dto.SoccerTeamDetails;
-import com.example.gamescheduler.dto.TeamDetails;
-import com.example.gamescheduler.service.GameScheduleService;
+import com.example.gameschedule.dto.GameScheduleDTO;
+import com.example.gameschedule.dto.SoccerTeamDetails;
+import com.example.gameschedule.dto.TeamDetails;
+import com.example.gameschedule.service.GameScheduleService;
 import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
 import com.fasterxml.jackson.databind.ObjectMapper;

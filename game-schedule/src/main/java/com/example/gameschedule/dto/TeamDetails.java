@@ -1,4 +1,4 @@
-package com.example.gamescheduler.dto;
+package com.example.gameschedule.dto;
 
 import java.io.Serializable;
 

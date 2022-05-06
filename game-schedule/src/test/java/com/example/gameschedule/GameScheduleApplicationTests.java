@@ -12,8 +12,8 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import com.example.gamescheduler.dto.GameScheduleDTO;
-import com.example.gamescheduler.service.impl.GameScheduleServiceImpl;
+import com.example.gameschedule.dto.GameScheduleDTO;
+import com.example.gameschedule.service.impl.GameScheduleServiceImpl;
 import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
 

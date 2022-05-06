@@ -1,4 +1,4 @@
-package com.example.gamescheduler.controller;
+package com.example.gameschedule.controller;
 
 import java.io.IOException;
 import java.text.ParseException;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.gamescheduler.dto.GameScheduleDTO;
-import com.example.gamescheduler.service.GameScheduleService;
+import com.example.gameschedule.dto.GameScheduleDTO;
+import com.example.gameschedule.service.GameScheduleService;
 import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
 

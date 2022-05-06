@@ -1,10 +1,10 @@
-package com.example.gamescheduler.service;
+package com.example.gameschedule.service;
 
 import java.io.IOException;
 import java.text.ParseException;
 import java.util.List;
 
-import com.example.gamescheduler.dto.GameScheduleDTO;
+import com.example.gameschedule.dto.GameScheduleDTO;
 import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
 
